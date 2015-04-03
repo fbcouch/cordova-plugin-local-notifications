@@ -23,7 +23,8 @@
     </engines>
 
     <!-- dependencies -->
-    <dependency id="org.apache.cordova.device" />
+    <!-- Remove this dependency - ionic seems to have trouble with dependencies :( -->
+    <!-- <dependency id="org.apache.cordova.device" /> -->
 
     <!-- info -->
     <info>
